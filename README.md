@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8E6C9&height=160&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C8E6C9&height=160&section=header"/>
 
 <h1 align="center"> Jang Junhyeok</h1>
 <p align="center">
