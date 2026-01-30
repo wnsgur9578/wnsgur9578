@@ -66,11 +66,4 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://programmers.co.kr/users/wnsgur9578@naver.com"> 
-    <img src="https://img.shields.io/badge/Programmers-Algorithm%20Practice-black?style=for-the-badge"/>
-  </a>
-</p>
-
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C8E6C9&height=160&section=footer"/>
